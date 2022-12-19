@@ -1,0 +1,13 @@
+.ball {
+    position: relative;
+    width: 4.5rem;
+    height: 4.5rem;
+    background-color: white;
+    border-radius: 50%;
+    left: 30rem;
+    box-shadow: inset -25px -25px 40px rgba(0, 0, 0, .5);
+    background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 220, .3) 0%, transparent 100%);
+    background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 220, .3) 0%, transparent 100%);
+    background-image: -o-linear-gradient(-45deg, rgba(255, 255, 220, .3) 0%, transparent 100%);
+    background-image: -ms-linear-gradient(-45deg, rgba(255, 255, 220, .3) 0%, transparent 100%);
+}

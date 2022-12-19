@@ -1,0 +1,12 @@
+.playground{
+    position: static;
+    border: 1px solid black;
+    background-color: green;
+    width: 80rem;
+    height: 40rem;
+    background: url(../assets/playground.jpg);
+    background-position: center;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
